@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+
+<!--### Private Projects-->
+
+### University projects
+
+- **[schoenenberg/waecm-group-09](https://github.com/schoenenberg/waecm-group-09)**: Web Application Engineering and Content Management lecture. Developing a Reddit-Bot.
+
+### Presentations
+
+- **[wumaxd/golang-presentation](https://github.com/wumaxd/golang-presentation)** ([Live](https://wumaxd.github.io/golang-presentation/)): Introduction to the programming language Go.
 
 <!--
 **schoenenberg/schoenenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
