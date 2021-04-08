@@ -2,9 +2,13 @@
 
 <!--### Private Projects-->
 
+### Utilities
+
+- **[unixtime](https://github.com/schoenenberg/unixtime)**: A small utility to print the current unix-time on STDOUT.
+
 ### University projects
 
-- **[schoenenberg/waecm-group-09](https://github.com/schoenenberg/waecm-group-09)**: Web Application Engineering and Content Management lecture at TU Wien. Developing a Reddit-Bot.
+- **[waecm-group-09](https://github.com/schoenenberg/waecm-group-09)**: Web Application Engineering and Content Management lecture at TU Wien. Developing a Reddit-Bot.
 - **[Raffy23/Progsprachen2020G5](https://github.com/Raffy23/Progsprachen2020G5)**: Programming languages lecture at TU Wien.
 
 ### Presentations
