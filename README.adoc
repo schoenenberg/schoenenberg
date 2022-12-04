@@ -1,0 +1,35 @@
+= Hi, I'm Maximilian Schönenberg 👋
+
+=== Current projects
+
+* https://github.com/schoenenberg/aoc2022[*aoc2022*]: My solutions to the _Advent of Code 2022_ Coding Challenge.
+
+=== Utilities
+
+* https://github.com/schoenenberg/unixtime[*unixtime*]: A small utility to print the current unix-time on STDOUT.
+
+=== (Some) University projects
+
+* https://github.com/schoenenberg/waecm-group-09[*waecm-group-09*]: Web Application Engineering and Content Management lecture at TU Wien. Developing a Reddit-Bot.
+* https://github.com/Raffy23/Progsprachen2020G5[*Raffy23/Progsprachen2020G5*]: Programming languages lecture at TU Wien.
+
+=== Presentations
+
+- https://github.com/wumaxd/golang-presentation[*wumaxd/golang-presentation*] (https://wumaxd.github.io/golang-presentation/[Live]): Introduction to the programming language Go.
+
+////
+<!--
+**schoenenberg/schoenenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+////
