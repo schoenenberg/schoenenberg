@@ -1,9 +1,5 @@
 = Hi, I'm Maximilian Schönenberg 👋
 
-=== Current projects
-
-* https://github.com/schoenenberg/aoc2022[*aoc2022*]: My solutions to the _Advent of Code 2022_ Coding Challenge.
-
 === Utilities
 
 * https://github.com/schoenenberg/unixtime[*unixtime*]: A small utility to print the current unix-time on STDOUT.
